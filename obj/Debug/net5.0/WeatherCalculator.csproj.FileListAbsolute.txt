@@ -1,0 +1,16 @@
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\bin\Debug\net5.0\WeatherCalculator.exe
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\bin\Debug\net5.0\WeatherCalculator.deps.json
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\bin\Debug\net5.0\WeatherCalculator.runtimeconfig.json
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\bin\Debug\net5.0\WeatherCalculator.runtimeconfig.dev.json
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\bin\Debug\net5.0\WeatherCalculator.dll
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\bin\Debug\net5.0\ref\WeatherCalculator.dll
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\bin\Debug\net5.0\WeatherCalculator.pdb
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\obj\Debug\net5.0\WeatherCalculator.csprojAssemblyReference.cache
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\obj\Debug\net5.0\WeatherCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\obj\Debug\net5.0\WeatherCalculator.AssemblyInfoInputs.cache
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\obj\Debug\net5.0\WeatherCalculator.AssemblyInfo.cs
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\obj\Debug\net5.0\WeatherCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\obj\Debug\net5.0\WeatherCalculator.dll
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\obj\Debug\net5.0\ref\WeatherCalculator.dll
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\obj\Debug\net5.0\WeatherCalculator.pdb
+C:\Users\Sigma Chi\Downloads\WeatherCalculator\obj\Debug\net5.0\WeatherCalculator.genruntimeconfig.cache

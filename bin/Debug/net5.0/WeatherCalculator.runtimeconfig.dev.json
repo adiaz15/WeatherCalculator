@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sigma Chi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sigma Chi\\.nuget\\packages"
+    ]
+  }
+}
